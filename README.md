@@ -2,12 +2,17 @@
 Assignment-.net-
 Question Understanding:-
 
-we have to provide a directory path and need to show all files start with quest.txt.
-we have to show the solution of either a single text file or all files
-solution file must be created when quest file read and it consist of a valid instructions.
-For a valid instruction 4.1 must have two operands and one operator 4.2 instruction may be two if then separated by "and" 4.3 if any invalid instruction occur that doesnot consist of operator must chandle the exception. 4.4 other solve the instruction
-solution file must have name solved_quest.txt.
-Use Cases:- 1. for e.g quest2.txt have instruction
+ 1.  we have to provide a directory path and need to show all files start with quest.txt.
+2.   we have to show the solution of either a single text file or all files
+3.   solution file must be created when quest file read and it consist of a valid instructions.
+4.   For a valid instruction 
+	4.1 must have two operands and one operator 
+	4.2 instruction may be two if then separated by "and" 
+	4.3 if any invalid instruction occur that doesnot consist of operator must chandle the exception.
+	4.4 other solve the instruction
+5. solution file must have name solved_quest.txt.
+Use Cases:- 
+1. for e.g quest2.txt have instruction
 
      2 + 5 and 6/3
      -3.9
