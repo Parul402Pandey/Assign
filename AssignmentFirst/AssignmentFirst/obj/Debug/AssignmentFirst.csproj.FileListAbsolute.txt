@@ -1,0 +1,7 @@
+C:\Users\craterzone\source\repos\AssignmentFirst\AssignmentFirst\bin\Debug\AssignmentFirst.exe.config
+C:\Users\craterzone\source\repos\AssignmentFirst\AssignmentFirst\bin\Debug\AssignmentFirst.exe
+C:\Users\craterzone\source\repos\AssignmentFirst\AssignmentFirst\bin\Debug\AssignmentFirst.pdb
+C:\Users\craterzone\source\repos\AssignmentFirst\AssignmentFirst\obj\Debug\AssignmentFirst.csprojAssemblyReference.cache
+C:\Users\craterzone\source\repos\AssignmentFirst\AssignmentFirst\obj\Debug\AssignmentFirst.csproj.CoreCompileInputs.cache
+C:\Users\craterzone\source\repos\AssignmentFirst\AssignmentFirst\obj\Debug\AssignmentFirst.exe
+C:\Users\craterzone\source\repos\AssignmentFirst\AssignmentFirst\obj\Debug\AssignmentFirst.pdb
